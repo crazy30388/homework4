@@ -71,7 +71,7 @@ public class Main {
             if (one < two && one < three && two < three)
             {System.out.println(three + " больше one и two");}
             else
-            {System.out.println( three + " не больше one и two");}
+            {System.out.println( three + " не больше one и two.");}
 
 
 
